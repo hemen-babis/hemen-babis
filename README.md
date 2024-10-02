@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/7451b6fa-e980-4c1c-b4fc-8f2af8eddd09
+![Blue Animated Developer Conference Video (1) gif (1)](https://github.com/user-attachments/assets/282554e0-71dd-4d0f-bba3-6225fb0b11f8)
 
 Hi! I'm **Hemen Babis**.
 

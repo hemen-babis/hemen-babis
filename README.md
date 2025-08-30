@@ -1,11 +1,21 @@
-![Blue Animated Developer Conference Video (1) gif (1)](https://github.com/user-attachments/assets/282554e0-71dd-4d0f-bba3-6225fb0b11f8)
+<!-- Hey there! Welcome to my GitHub profile. This README is automatically generated to showcase my work and skills. --> <h1 align="center">Hi there 👋, I'm Hemen Babis</h1> <div align="center"> <em>Developer & Data Enthusiast based in Las Vegas, Nevada</em> </div>
+👨‍💻 About Me
 
-Hi! I'm **Hemen Babis**.
+🔭 I'm currently working on open‑source projects like an AI‑Project Manager and a Quake Archive for the Ring of Fire.
 
-🚀 Aspiring Software Engineer | Senior at Portland State University Honors College
+🌱 I'm learning advanced Data Science, DevOps, and Cloud Computing to expand my horizons.
 
-🎓 Pursuing a Double major in Computer Science and Mathematics, passionate about crafting innovative software solutions.
+🤝 I'm looking to collaborate on software engineering and research positions where I can contribute and learn best practices.
 
-💻 Proficient in C++, Python, JavaScript, NodeJS, and Qiskit.
+📫 How to reach me: <a href="mailto:hemenbabis@gmail.com">hemenbabis@gmail.com
+</a>
 
-🌐 This GitHub profile is a showcase of my projects and contributions to the open-source community. Explore and connect to be part of the journey!
+🧭 Know more about my journey in my portfolio
+.
+
+🤝 Connect With Me
+<p align="left"> <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:hemenbabis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a> </p>
+🛠️ Languages & Tools
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+📊 GitHub Stats
+<div align="center"> <table> <tr> <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hemen-babis&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/></a></td> <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemen-babis&layout=compact&langs_count=10&hide_border=true" alt="Top Languages"/></a></td> </tr> <tr> <td colspan="2"><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemen-babis&hide_border=true" alt="GitHub Streak"/></a></td> </tr> <tr> <td colspan="2"><a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hemen-babis&bg_color=ffffff&color=000000&line=007ACC&point=000000&hide_border=true" alt="Activity Graph"/></a></td> </tr> </table> </div>
